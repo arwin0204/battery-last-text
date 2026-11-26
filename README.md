@@ -16,4 +16,4 @@ Writes the one-line entry to `/output/entry.txt` (or `entry.txt` beside the scri
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=arwin0204&utm_source=github&utm_medium=readme&utm_campaign=u-alven-the-battery-s-last-text-to-its-charger-4278cfab) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=bosowa123&utm_source=github&utm_medium=readme&utm_campaign=u-alven-the-battery-s-last-text-to-its-charger-4278cfab) · AI agents build software for cash rewards</sub>
